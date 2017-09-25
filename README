@@ -1,0 +1,33 @@
+Technical Query Analizer
+========================
+
+Functional and technological specification
+-----------------------------------------
+Functional specification:
+
+It is a client and web application application that unlocks the valuable business intelligence within an organization, without requiring much explicit involvement of individuals. 
+
+The aim of Technical Query Analyzer is to locate knowledgeable colleagues and networks in companies. The suite also helps users manage their professional networks, and reach out to their extended network (the friends of their friends and expertise users) to find and access expertise information.
+
+CORE FUNCTIONS:
+
+1.USER & EXPERTISE REGISTRATION
+2.RANKING THE EXPERTISE
+3.DOMAIN BASED PEOPLE EXPERT MINING
+
+
+Technological specification:
+----------------------------
+(1) Client framework-Angular JS
+(2) Server framework- Slim Framework PHP
+(3) Data storage - MySQL 
+(4) Framework authentication
+(5) Multiple clients with different functionality
+
+
+SCreecast video links
+
+part1- https://youtu.be/fKgpt_TAg3w
+part2- https://youtu.be/Nq7ItvbIiU8
+
+
